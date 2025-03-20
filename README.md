@@ -1,6 +1,8 @@
-feature-branch
-this is feature branch 
-Paul Mwenya 
+Main
 
+this is now in the main branch 
+
+Contributors:
+Paul Mwenya 
 Moses Mwenya 
-main
+
